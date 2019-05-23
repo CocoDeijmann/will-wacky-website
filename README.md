@@ -9,4 +9,4 @@ Ik hebbem aangepast, dit is hoe:
 Wil je hem zien? Klik [hier](https://cocodeijmann.github.io/will-wacky-website/)
 
 Dit is de foto die ik heb toegevoegd
-![Matt Corby](../img/mattcorby.jpeg)
+![Matt Corby](assets/img/mattcorby.jpeg)
